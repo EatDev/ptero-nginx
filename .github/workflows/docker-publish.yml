@@ -27,4 +27,4 @@ jobs:
           platforms: linux/amd64
           push: true
           tags: |
-              ghcr.io/JonasEssen/nginx-ptero:latest
+              ghcr.io/jonasessen/nginx-ptero:latest
